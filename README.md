@@ -35,7 +35,9 @@ machine learning, and building end-to-end data projects.
 ## Featured Projects
 
 ### 🛒 Olist E-Commerce Sales Analysis
-End-to-end e-commerce analysis using Python, SQL, and data visualization.
+Built an end-to-end e-commerce analytics workflow using Python, PostgreSQL, SQL, and Power BI, analyzing ~100K orders and 547K+ records to uncover sales, customer, product, and delivery insights.
+
+**Tech:** Python · Pandas · PostgreSQL · SQL · Power BI · Power Query · DAX
 
 [View Project](https://github.com/montalvoalan/olist-ecommerce-sales-analysis)
 
