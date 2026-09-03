@@ -53,6 +53,7 @@ Built an end-to-end e-commerce analytics workflow using Python, PostgreSQL, SQL,
 - Machine learning model evaluation
 - Dashboard development
 - End-to-end analytics workflows
+- Advanced Excel
 
 ## Interests
 
